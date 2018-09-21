@@ -9,4 +9,3 @@ def c():
 
 def d():
     ddddddddd
-haha
